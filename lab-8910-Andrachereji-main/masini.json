@@ -1,0 +1,1 @@
+{"2": {"py/object": "Domain.masina.Masina", "id_entity": "2", "model": "mercedes", "an_achizitie": 2019, "nr_km": 20000.0, "in_garantie": "Da"}, "1": {"py/object": "Domain.masina.Masina", "id_entity": "1", "model": "logan", "an_achizitie": 2010, "nr_km": 15000.0, "in_garantie": "Nu"}}
